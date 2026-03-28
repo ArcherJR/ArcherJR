@@ -32,7 +32,7 @@
 
 <img src="https://github-readme-stats-sable-five-74.vercel.app/api?username=ArcherJR&show_icons=true&count_private=true&theme=tokyonight" alt="Top Languages" />
 
-![Profil Görüntülenme Sayısı](https://komarev.com/ghpvc/?username=ArcherJR&color=blue&style=flat-square&label=PROFIL+GÖRÜNTÜLENME)
+![Profil Görüntülenme Sayısı](https://komarev.com/ghpvc/?username=ArcherJR&color=blue&style=flat-square&label=Top+View)
 
 <h2></h2>
 </div>
