@@ -36,3 +36,12 @@
 
 <h2></h2>
 </div>
+
+### 🚀 Projelerim & Çalışmalarım
+
+* [Nothing-Floris-TR](https://github.com/ArcherJR/Nothing-Floris-TR) - Proje çeviri ve yerelleştirme çalışması.
+* [Foam-Plane-Open-VSP](https://github.com/ArcherJR/Foam-Plane-Open-VSP) - OpenVSP ile uçak gövde ve kanat tasarımı.
+* [Servo-Control-Without-Library](https://github.com/ArcherJR/Servo-motor-control-without-library) - Kütüphane kullanmadan düşük seviyeli servo kontrolü.
+* [Arduino-Single-Wire-UART](https://github.com/ArcherJR/arduino-single-wire-uart) - Tek hat üzerinden UART haberleşme protokolü uygulaması.
+
+---
