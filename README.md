@@ -9,7 +9,7 @@
     Thingiverse Profile: 
     https://www.thingiverse.com/OptimusJR/designs
 </div>
-<h2></h2>h2>
+<h2></h2>
 
 ### 💻 Tech Stack
 <div>
