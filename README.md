@@ -5,6 +5,10 @@
 
 <h2></h2>
 
+<div>
+    thingiverse profile
+    https://www.thingiverse.com/OptimusJR/designs
+</div>
 
 ### 💻 Tech Stack
 <div>
