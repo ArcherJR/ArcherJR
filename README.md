@@ -1,13 +1,16 @@
 <div align="center">
-<h2></h2>
 
 <img align= "center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&width=435&lines=Hi++I'm+ArcherJR;Developer;Coder" />
 
-<h2></h2>
+<br/>
 
-[![Thingiverse](https://img.shields.io/badge/Thingiverse-2484C1?style=for-the-badge&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/OptimusJR)
+<div style="margin: 20px 0; line-height: 0;">
+  <a href="https://www.thingiverse.com/OptimusJR">
+    <img src="https://img.shields.io/badge/Thingiverse-2484C1?style=for-the-badge&logo=thingiverse&logoColor=white" alt="Thingiverse Profile" style="vertical-align: middle;">
+  </a>
+</div>
 
-<h2></h2>
+<br/>
 
 ### 💻 Tech Stack
 <div>
@@ -15,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,arduino,unity,py" /><br/>
 </div>
 
-<h2></h2>
+<br/>
 
 ### 🛠️ Development Tools
 <div>
@@ -23,21 +26,17 @@
     <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,debian,arch" />
 </div>
 
-<h2></h2>
+<br/>
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-      <img src="https://github-readme-stats-sable-five-74.vercel.app/api/top-langs/?username=ArcherJR&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </tr>
-</table>
+<img src="https://github-readme-stats-sable-five-74.vercel.app/api/top-langs/?username=ArcherJR&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-<img src="https://github-readme-stats-sable-five-74.vercel.app/api?username=ArcherJR&show_icons=true&count_private=true&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats-sable-five-74.vercel.app/api?username=ArcherJR&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
 
 ![Profil Görüntülenme Sayısı](https://komarev.com/ghpvc/?username=ArcherJR&color=blue&style=flat-square&label=Top+View)
 
-<h2></h2>
+<br/>
 </div>
 
 ### 🚀 Projelerim & Çalışmalarım
