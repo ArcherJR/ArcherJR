@@ -5,7 +5,7 @@
 
 <h2></h2>
 
-[Thingiverse Profile](https://www.thingiverse.com/OptimusJR/designs) 
+[![Thingiverse](https://img.shields.io/badge/Thingiverse-2484C1?style=for-the-badge&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/KULLANICI_ADINIZ)
 
 <h2></h2>
 <img src="http://www.w3.org/2000/svg" /><br/>
