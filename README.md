@@ -8,6 +8,7 @@
 [Thingiverse Profile](https://www.thingiverse.com/OptimusJR/designs) 
 
 <h2></h2>
+<img src="https://www.thingiverse.com/" /><br/>
 
 ### 💻 Tech Stack
 <div>
