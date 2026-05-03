@@ -6,6 +6,7 @@
 <h2></h2>
 
 <div>
+    [Thingiverse Profile](https://www.thingiverse.com/OptimusJR/designs) 
     Thingiverse Profile: 
     https://www.thingiverse.com/OptimusJR/designs
 </div>
