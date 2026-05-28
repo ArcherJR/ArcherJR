@@ -48,6 +48,3 @@
 * [Arduino-Single-Wire-UART](https://github.com/ArcherJR/arduino-single-wire-uart) - Tek hat üzerinden UART haberleşme protokolü uygulaması.
 
 ---
-
-
-düzgün mü
