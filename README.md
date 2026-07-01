@@ -46,5 +46,6 @@
 * [Foam-Plane-Open-VSP](https://github.com/ArcherJR/Foam-Plane-Open-VSP) - OpenVSP ile uçak gövde ve kanat tasarımı.
 * [Servo-Control-Without-Library](https://github.com/ArcherJR/Servo-motor-control-without-library) - Kütüphane kullanmadan düşük seviyeli servo kontrolü.
 * [Arduino-Single-Wire-UART](https://github.com/ArcherJR/arduino-single-wire-uart) - Tek hat üzerinden UART haberleşme protokolü uygulaması.
+* [Ideapad3-Keyboard-Auto-Light](https://github.com/ArcherJR/Ideapad3-Keyboard-Auto-Light) - Ideapad3 ec üzerinden otomatik klavye aydınlatması
 
 ---
