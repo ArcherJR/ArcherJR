@@ -44,7 +44,7 @@
 
 * [Lenovo-Ideapad3-Fan-Control-Linux](https://github.com/ArcherJR/Lenovo-Ideapad3-Fan-Control-Linux) - Ideapad 3 fan kontrol projei.
 * [Ideapad3-Keyboard-Auto-Light](https://github.com/ArcherJR/Ideapad3-Keyboard-Auto-Light) - Ideapad3 ec üzerinden otomatik klavye aydınlatması
-* [Stm32 Blackpill DFU Programming](https://github.com/ArcherJR/stm32-blackpill-programming-with-type-C)
+* [Stm32 Blackpill DFU Programming](https://github.com/ArcherJR/stm32-blackpill-programming-with-type-C) - Stm32f4 blackpill geliştirme kartı type-C programlama projesi.
 * [Nothing-Floris-TR](https://github.com/ArcherJR/Nothing-Floris-TR) - Proje çeviri ve yerelleştirme çalışması.
 * [Foam-Plane-Open-VSP](https://github.com/ArcherJR/Foam-Plane-Open-VSP) - OpenVSP ile uçak gövde ve kanat tasarımı.
 * [Servo-Control-Without-Library](https://github.com/ArcherJR/Servo-motor-control-without-library) - Kütüphane kullanmadan düşük seviyeli servo kontrolü.
