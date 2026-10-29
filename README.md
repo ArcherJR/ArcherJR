@@ -11,7 +11,7 @@
 
 ### 💻 Tech Stack
 <div>
-    <img src="https://skillicons.dev/icons?i=js,cpp,c,cs" /><br/>
+    <img src="https://skillicons.dev/icons?i=js,cpp,c,rust,cs" /><br/>
     <img src="https://skillicons.dev/icons?i=html,css,arduino,unity,py" /><br/>
 </div>
 
